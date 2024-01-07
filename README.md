@@ -3,7 +3,7 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milhan331&label=Profile%20views&color=0e75b6&style=flat" alt="milhan331" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=milhan331&label=Profile%20views&color=0e75b6&style=flat" alt="milhan331" /> </p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
